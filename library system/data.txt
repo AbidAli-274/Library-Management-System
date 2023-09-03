@@ -1,0 +1,9 @@
+
+	Book ID: 1
+	Book Name: baal-e-jibrail
+	Author Name: Allama
+	Status: Available
+	Edition: Iqbal
+	Date of Purchase: 1/6/2020
+	Rack NO#: 1
+	Price: 300
